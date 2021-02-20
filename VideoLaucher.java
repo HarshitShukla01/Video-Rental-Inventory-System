@@ -39,7 +39,7 @@ public class VideoLaucher {
 					break;
 				case 6:
 					System.err.println("Enter ...!! Thanks for using the application");
-					System.exit(1);
+					System.exit(0);
 					break;
 				}
 		}while(!(choice==6));		
